@@ -65,7 +65,7 @@ Type anything and chat with Aria. Type `bye` to exit.
 
 ```
 ChatBot_AI_Agent/
-├── chatbot.py      # Main chatbot code
+├── chatbot_final.py      # Main chatbot code
 ├── .gitignore      # Ignores pycache, .env files
 └── README.md       # This file
 ```
